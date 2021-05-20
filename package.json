@@ -1,0 +1,17 @@
+
+{
+  "name": "socket-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start":"lerna run start",
+    "new-version":"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}
